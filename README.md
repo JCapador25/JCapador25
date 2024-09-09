@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JCapador25
-- 👀 I’m interested in Software Development and Artificial Intelligence
+- 👀 I’m interested in Web Development and Artificial Intelligence
 - :muscle: Perhaps try with videogames development...
 - 🌱 I’m currently start learning differente technologies and languages
 
